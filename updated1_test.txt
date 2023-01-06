@@ -1,0 +1,166 @@
+Date Opponent Result Location W/L Div
+10/19 Memphis L 112-115 Away 0-1 0-0
+10/21 Detroit W 130-106 Home 1-1 0-0
+10/24 Orlando W 115-102 Home 2-1 0-0
+10/26 Charlotte W 134-131 Home 3-1 0-0
+10/28 Milwaukee L 108-119 Away 3-2 0-0
+10/30 Cleveland L 108-121 Away 3-3 0-0
+11/02 Atlanta L 99-112 Home 3-4 0-0
+11/04 Philadelphia W 106-104 Away 4-4 1-0
+11/05 Boston L 118-133 Home 4-5 1-1
+11/07 Minnesota W 120-107 Away 5-5 1-1
+11/09 Brooklyn L 85-112 Away 5-6 1-2
+11/11 Detroit W 121-112 Home 6-6 1-2
+11/13 Okla City L 135-145 Home 6-7 1-2
+11/15 Utah W 118-111 Away 7-7 1-2
+11/16 Denver W 106-103 Away 8-7 1-2
+11/18 Golden State L 101-111 Away 8-8 1-2
+11/20 Phoenix L 95-116 Away 8-9 1-2
+11/21 Okla City W 129-119 Away 9-9 1-2
+11/25 Portland L 129-132 Home 9-10 1-2
+11/27 Memphis L 123-127 Home 9-11 1-2
+11/29 Detroit W 140-110 Away 10-11 1-2
+11/30 Milwaukee L 103-109 Home 10-12 1-2
+12/03 Dallas L 100-121 Home 10-13 1-2
+12/04 Cleveland W 92-81 Home 11-13 1-2
+12/07 Atlanta W 113-89 Home 12-13 1-2
+12/09 Charlotte W 121-102 Away 13-13 1-2
+12/11 Sacramento W 112-99 Home 14-13 1-2
+12/14 Chicago W 128-120 Away 15-13 1-2
+12/16 Chicago W 114-91 Away 16-13 1-2
+12/18 Indiana W 109-106 Away 17-13 1-2
+12/20 Golden State W 132-94 Home 18-13 1-2
+12/21 Toronto L 106-113 Home 18-14 1-3
+12/23 Chicago L 117-118 Home 18-15 1-3
+12/25 Philadelphia L 112-119 Home 18-16 1-4
+12/27 Dallas 8:30 pm Away
+12/29 San Antonio 8:00 pm Away
+12/31 Houston 7:00 pm Away
+01/02 Phoenix 3:00 pm Home
+01/04 San Antonio 7:30 pm Home
+01/06 Toronto 7:30 pm Away
+01/09 Milwaukee 7:30 pm Home
+01/11 Indiana 7:30 pm Home
+01/13 Washington 7:00 pm Away
+01/15 Detroit 1:00 pm Away
+01/16 Toronto 3:00 pm Home
+01/18 Washington 7:30 pm Home
+01/20 Atlanta 7:30 pm Away
+01/22 Toronto 6:00 pm Away
+01/24 Cleveland 7:30 pm Home
+01/26 Boston 7:30 pm Away
+01/28 Brooklyn 5:30 pm Away
+01/31 LA Lakers 7:30 pm Home
+02/02 Miami 7:30 pm Home
+02/04 LA Clippers 7:00 pm Home
+02/05 Philadelphia 6:00 pm Home
+02/07 Orlando 7:00 pm Away
+02/10 Philadelphia 7:00 pm Away
+02/11 Utah 7:30 pm Home
+02/13 Brooklyn 7:30 pm Home
+02/15 Atlanta 7:30 pm Away
+02/24 Washington 7:00 pm Away
+02/25 New Orleans 7:30 pm Home
+02/27 Boston 7:30 pm Home
+03/01 Brooklyn 7:30 pm Home
+03/03 Miami 8:00 pm Away
+03/05 Boston 7:30 pm Away
+03/07 Charlotte 7:30 pm Home
+03/09 Sacramento 10:00 pm Away
+03/11 LA Clippers 4:00 pm Away
+03/12 LA Lakers 9:00 pm Away
+03/14 Portland 10:00 pm Away
+03/18 Denver 1:00 pm Home
+03/20 Minnesota 7:30 pm Home
+03/22 Miami 7:30 pm Away
+03/23 Orlando 7:00 pm Away
+03/27 Houston 7:30 pm Home
+03/29 Miami 7:30 pm Home
+03/31 Cleveland 7:30 pm Away
+04/02 Washington 6:00 pm Home
+04/05 Indiana 7:00 pm Away
+04/07 New Orleans 8:00 pm Away
+04/09 Indiana 1:00 pm 
+Date Opponent Result Spread Total Money
+10/19 Memphis L 112-115 +4.5 Pu 227.0 +165
+10/21 Detroit W 130-106 -7.0 Ov 220.5 -282
+10/24 Orlando W 115-102 -7.5 Un 223.0 -290
+10/26 Charlotte W 134-131 -7.5 Ov 224.5 -325
+10/28 Milwaukee L 108-119 +6.0 Ov 223.5 +200
+10/30 Cleveland L 108-121 +3.5 Ov 220.0 +140
+11/02 Atlanta L 99-112 -2.5 Un 233.0 -133
+11/04 Philadelphia W 106-104 +2.0 Un 221.0 +115
+11/05 Boston L 118-133 +4.0 Ov 227.0 +150
+11/07 Minnesota W 120-107 +2.5 Un 235.0 +125
+11/09 Brooklyn L 85-112 +3.0 Un 220.5 +130
+11/11 Detroit W 121-112 -9.0 Ov 224.5 -369
+11/13 Okla City L 135-145 -5.0 Ov 226.5 -205
+11/15 Utah W 118-111 +4.0 Un 231.5 +155
+11/16 Denver W 106-103 +2.0 Un 226.5 +105
+11/18 Golden State L 101-111 +7.5 Un 234.0 +230
+11/20 Phoenix L 95-116 +6.0 Un 227.0 +191
+11/21 Okla City W 129-119 +1.5 Ov 228.0 +100
+11/25 Portland L 129-132 -4.0 Ov 217.0 -170
+11/27 Memphis L 123-127 +1.5 Ov 227.5 +100
+11/29 Detroit W 140-110 -4.5 Ov 227.0 -172
+11/30 Milwaukee L 103-109 +6.0 Un 227.5 +194
+12/03 Dallas L 100-121 +1.5 Un 224.0 +104
+12/04 Cleveland W 92-81 +2.5 Un 222.0 +117
+12/07 Atlanta W 113-89 -2.0 Un 233.0 -132
+12/09 Charlotte W 121-102 -3.5 Un 224.0 -165
+12/11 Sacramento W 112-99 -2.5 Un 226.0 -138
+12/14 Chicago W 128-120 +3.5 Ov 226.5 +140
+12/16 Chicago W 114-91 +2.5 Un 225.5 +125
+12/18 Indiana W 109-106 -1.0 Un 228.0 -109
+12/20 Golden State W 132-94 -6.0 Ov 220.5 -216
+12/21 Toronto L 106-113 -2.0 Ov 217.5 -130
+12/23 Chicago L 117-118 -6.0 Ov 225.0 -220
+12/25 Philadelphia L 112-119 +2.0 Ov 215.5 +105
+12/27 Dallas 8:30 pm -- -- --
+12/29 San Antonio 8:00 pm -- -- --
+12/31 Houston 7:00 pm -- -- --
+01/02 Phoenix 3:00 pm -- -- --
+01/04 San Antonio 7:30 pm -- -- --
+01/06 Toronto 7:30 pm -- -- --
+01/09 Milwaukee 7:30 pm -- -- --
+01/11 Indiana 7:30 pm -- -- --
+01/13 Washington 7:00 pm -- -- --
+01/15 Detroit 1:00 pm -- -- --
+01/16 Toronto 3:00 pm -- -- --
+01/18 Washington 7:30 pm -- -- --
+01/20 Atlanta 7:30 pm -- -- --
+01/22 Toronto 6:00 pm -- -- --
+01/24 Cleveland 7:30 pm -- -- --
+01/26 Boston 7:30 pm -- -- --
+01/28 Brooklyn 5:30 pm -- -- --
+01/31 LA Lakers 7:30 pm -- -- --
+02/02 Miami 7:30 pm -- -- --
+02/04 LA Clippers 7:00 pm -- -- --
+02/05 Philadelphia 6:00 pm -- -- --
+02/07 Orlando 7:00 pm -- -- --
+02/10 Philadelphia 7:00 pm -- -- --
+02/11 Utah 7:30 pm -- -- --
+02/13 Brooklyn 7:30 pm -- -- --
+02/15 Atlanta 7:30 pm -- -- --
+02/24 Washington 7:00 pm -- -- --
+02/25 New Orleans 7:30 pm -- -- --
+02/27 Boston 7:30 pm -- -- --
+03/01 Brooklyn 7:30 pm -- -- --
+03/03 Miami 8:00 pm -- -- --
+03/05 Boston 7:30 pm -- -- --
+03/07 Charlotte 7:30 pm -- -- --
+03/09 Sacramento 10:00 pm -- -- --
+03/11 LA Clippers 4:00 pm -- -- --
+03/12 LA Lakers 9:00 pm -- -- --
+03/14 Portland 10:00 pm -- -- --
+03/18 Denver 1:00 pm -- -- --
+03/20 Minnesota 7:30 pm -- -- --
+03/22 Miami 7:30 pm -- -- --
+03/23 Orlando 7:00 pm -- -- --
+03/27 Houston 7:30 pm -- -- --
+03/29 Miami 7:30 pm -- -- --
+03/31 Cleveland 7:30 pm -- -- --
+04/02 Washington 6:00 pm -- -- --
+04/05 Indiana 7:00 pm -- -- --
+04/07 New Orleans 8:00 pm -- -- --
+04/09 Indiana 1:00 pm -- -- --
